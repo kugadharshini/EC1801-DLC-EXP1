@@ -57,12 +57,6 @@ module tb;
     end
 
 endmodule
-
-
-
-
-
-
     
 ## Truth Table
  
@@ -116,9 +110,7 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
-
-<img width="1920" height="1080" alt="Screenshot 2026-11-18 092349" src="https://github.com/user-attachments/assets/181e9b87-d34b-4efd-bfc8-7efb73cc0369" />
-
+<img width="1920" height="1080" alt="Screenshot 2026-11-18 092349" src="https://github.com/user-attachments/assets/c3a5ef9f-1a56-426c-809a-bd275cfc6bcb" />
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
 7. Viva-Voce Questions
